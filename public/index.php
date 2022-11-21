@@ -8,7 +8,7 @@
 
 <head>
 
-    <title>coba hit web ini</title>
+    <title>coba hit wb ini</title>
 
     <meta charset="UTF-8" />
 
